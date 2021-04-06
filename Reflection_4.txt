@@ -1,0 +1,1 @@
+W SCRUM zadania wykonywane są w SPRINTACH a w KANBAN zadania wpadają do kolejki, która określa kolejnośc wykonywania zadań
